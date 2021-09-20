@@ -1,0 +1,14 @@
+.std_button {
+  background-color: lightgray;
+  padding: 5px;
+  border-radius: 10px;
+  width: 105px;
+}
+.std_button:hover,
+.std_button:focus {
+  background-color: rgb(7, 194, 7);
+  outline: none;
+}
+.std_button:focus {
+  border-radius: 10px;
+}

@@ -1,0 +1,37 @@
+{
+  "name": "cra-template-bbrrsolutions-ts",
+  "version": "1.0.0",
+  "keywords": [
+    "create-react-app",
+    "react",
+    "template",
+    "typescript",
+    "BBRR Solutions"
+  ],
+  "description": "BBRR Solutions Typescript create-react-app template.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BBRR-Solutions/React-Boilerplate-Typescript"
+  },
+  "author": {
+    "name": "BBRR Solutions",
+    "email": "informacion@bbrr.solutions",
+    "website": "https://www.bbrr.solutions",
+    "team-members": [
+      {
+        "name": "Bruno Ruiz",
+        "email": "bruno.ruiz@bbrr.solutions"
+      }
+    ]
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
